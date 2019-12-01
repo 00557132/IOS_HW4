@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D370A3F23944F4400404662 /* Analysis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D370A3E23944F4400404662 /* Analysis.swift */; };
+		7D370A41239455C400404662 /* PieChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D370A40239455C400404662 /* PieChart.swift */; };
 		7D5568EF2394332D00E2B3A5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5568EE2394332D00E2B3A5 /* AppDelegate.swift */; };
 		7D5568F12394332D00E2B3A5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5568F02394332D00E2B3A5 /* SceneDelegate.swift */; };
 		7D5568F32394332D00E2B3A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5568F22394332D00E2B3A5 /* ContentView.swift */; };
@@ -15,6 +17,14 @@
 		7D5568FB2394333000E2B3A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D5568F92394333000E2B3A5 /* LaunchScreen.storyboard */; };
 		7D5569062394333000E2B3A5 /* HW4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569052394333000E2B3A5 /* HW4Tests.swift */; };
 		7D5569112394333000E2B3A5 /* HW4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569102394333000E2B3A5 /* HW4UITests.swift */; };
+		7D55691F239433A000E2B3A5 /* MonsterData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D55691E239433A000E2B3A5 /* MonsterData.swift */; };
+		7D556921239433BD00E2B3A5 /* AppDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D556920239433BD00E2B3A5 /* AppDetail.swift */; };
+		7D5569232394344200E2B3A5 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569222394344200E2B3A5 /* FirstPage.swift */; };
+		7D5569252394345B00E2B3A5 /* MonsterDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569242394345B00E2B3A5 /* MonsterDefault.swift */; };
+		7D5569272394346D00E2B3A5 /* MonsterDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569262394346D00E2B3A5 /* MonsterDemo.swift */; };
+		7D5569292394349800E2B3A5 /* MonsterRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5569282394349800E2B3A5 /* MonsterRow.swift */; };
+		7D55692B239434BB00E2B3A5 /* MonsterList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D55692A239434BB00E2B3A5 /* MonsterList.swift */; };
+		7D55692D239434D800E2B3A5 /* MonsterEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D55692C239434D800E2B3A5 /* MonsterEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7D370A3E23944F4400404662 /* Analysis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analysis.swift; sourceTree = "<group>"; };
+		7D370A40239455C400404662 /* PieChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieChart.swift; sourceTree = "<group>"; };
 		7D5568EB2394332D00E2B3A5 /* HW4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D5568EE2394332D00E2B3A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D5568F02394332D00E2B3A5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +61,14 @@
 		7D55690C2394333000E2B3A5 /* HW4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D5569102394333000E2B3A5 /* HW4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW4UITests.swift; sourceTree = "<group>"; };
 		7D5569122394333000E2B3A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D55691E239433A000E2B3A5 /* MonsterData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterData.swift; sourceTree = "<group>"; };
+		7D556920239433BD00E2B3A5 /* AppDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDetail.swift; sourceTree = "<group>"; };
+		7D5569222394344200E2B3A5 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
+		7D5569242394345B00E2B3A5 /* MonsterDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterDefault.swift; sourceTree = "<group>"; };
+		7D5569262394346D00E2B3A5 /* MonsterDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterDemo.swift; sourceTree = "<group>"; };
+		7D5569282394349800E2B3A5 /* MonsterRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterRow.swift; sourceTree = "<group>"; };
+		7D55692A239434BB00E2B3A5 /* MonsterList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterList.swift; sourceTree = "<group>"; };
+		7D55692C239434D800E2B3A5 /* MonsterEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +126,16 @@
 				7D5568F92394333000E2B3A5 /* LaunchScreen.storyboard */,
 				7D5568FC2394333000E2B3A5 /* Info.plist */,
 				7D5568F62394333000E2B3A5 /* Preview Content */,
+				7D55691E239433A000E2B3A5 /* MonsterData.swift */,
+				7D556920239433BD00E2B3A5 /* AppDetail.swift */,
+				7D5569222394344200E2B3A5 /* FirstPage.swift */,
+				7D5569242394345B00E2B3A5 /* MonsterDefault.swift */,
+				7D5569262394346D00E2B3A5 /* MonsterDemo.swift */,
+				7D5569282394349800E2B3A5 /* MonsterRow.swift */,
+				7D55692A239434BB00E2B3A5 /* MonsterList.swift */,
+				7D55692C239434D800E2B3A5 /* MonsterEditor.swift */,
+				7D370A3E23944F4400404662 /* Analysis.swift */,
+				7D370A40239455C400404662 /* PieChart.swift */,
 			);
 			path = HW4;
 			sourceTree = "<group>";
@@ -267,9 +297,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D370A41239455C400404662 /* PieChart.swift in Sources */,
+				7D556921239433BD00E2B3A5 /* AppDetail.swift in Sources */,
+				7D370A3F23944F4400404662 /* Analysis.swift in Sources */,
+				7D5569272394346D00E2B3A5 /* MonsterDemo.swift in Sources */,
 				7D5568EF2394332D00E2B3A5 /* AppDelegate.swift in Sources */,
 				7D5568F12394332D00E2B3A5 /* SceneDelegate.swift in Sources */,
+				7D55691F239433A000E2B3A5 /* MonsterData.swift in Sources */,
+				7D5569252394345B00E2B3A5 /* MonsterDefault.swift in Sources */,
 				7D5568F32394332D00E2B3A5 /* ContentView.swift in Sources */,
+				7D5569292394349800E2B3A5 /* MonsterRow.swift in Sources */,
+				7D55692D239434D800E2B3A5 /* MonsterEditor.swift in Sources */,
+				7D55692B239434BB00E2B3A5 /* MonsterList.swift in Sources */,
+				7D5569232394344200E2B3A5 /* FirstPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
